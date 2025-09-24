@@ -1,5 +1,20 @@
 # Customer Segmentation Analysis: Identifying Distinct Customer Profiles Using K-Means Clustering
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+<!-- Text-based badges for specific libraries -->
+![K-Means](https://img.shields.io/badge/K--Means-008080?style=for-the-badge)
+![PCA](https://img.shields.io/badge/PCA-4B0082?style=for-the-badge)
+![StandardScaler](https://img.shields.io/badge/StandardScaler-FF6B6B?style=for-the-badge)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
 ## Project Overview
 This project performs customer segmentation using K-Means clustering to identify distinct customer profiles from marketing data. The analysis includes data preprocessing, feature engineering, PCA for dimensionality reduction, and clustering interpretation.
 

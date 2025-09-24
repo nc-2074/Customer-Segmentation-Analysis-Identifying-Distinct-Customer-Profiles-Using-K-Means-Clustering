@@ -1,0 +1,2 @@
+# Customer-Segmentation-Analysis-Identifying-Distinct-Customer-Profiles-Using-K-Means-Clustering
+This project analyzes customer data to identify distinct segments using unsupervised machine learning. Includes data cleaning, feature engineering, PCA for dimensionality reduction, and K-Means clustering. The results reveal 4 actionable customer profiles that can be used to guide targeted marketing strategies.

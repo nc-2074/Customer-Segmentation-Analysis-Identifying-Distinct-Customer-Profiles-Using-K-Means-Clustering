@@ -19,7 +19,25 @@
 This project performs customer segmentation using K-Means clustering to identify distinct customer profiles from marketing data. The analysis includes data preprocessing, feature engineering, PCA for dimensionality reduction, and clustering interpretation.
 
 ## Business Objective
-Identify meaningful customer segments to enable targeted marketing strategies, personalized campaigns, and improved customer retention.
+Identify meaningful customer segments to provide actionable insights that can be used to inform targeted marketing strategies, personalized campaigns, and improved customer retention.
+
+## Project Structure 
+
+```text
+Customer Segmentation Analysis: Identifying Distinct Customer Profiles Using K-Means Clustering/
+│
+├── data/
+│   └── marketing_campaign.csv 
+│
+├── notebooks/
+│   ├── Identifying Distinct Customer Profiles Using K-Means Clustering.ipynb  
+│   └── Identifying Distinct Customer Profiles Using K-Means Clustering.html
+│
+├── reports/
+│   └── Customer_Segmentation_Analysis.pdf    
+│
+└── README.md
+```
 
 ## Methodology
 

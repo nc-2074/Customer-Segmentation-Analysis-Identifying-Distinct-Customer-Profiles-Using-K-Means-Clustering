@@ -8,8 +8,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-<!-- Text-based badges for specific libraries -->
 ![K-Means](https://img.shields.io/badge/K--Means-008080?style=for-the-badge)
 ![PCA](https://img.shields.io/badge/PCA-4B0082?style=for-the-badge)
 ![StandardScaler](https://img.shields.io/badge/StandardScaler-FF6B6B?style=for-the-badge)

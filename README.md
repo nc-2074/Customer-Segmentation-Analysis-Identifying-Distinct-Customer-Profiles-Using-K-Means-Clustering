@@ -86,6 +86,12 @@ Created new features to better capture customer behavior:
 - Moderate silhouette score (0.21) reflecting real-world behavioral overlap
 - Clear business strategies for each segment (promotions, loyalty programs, etc.)
 
+## Dataset
+
+- **Source:** Customer Personality Analysis Dataset on Kaggle  
+- **Link:** https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/data 
+- **Description:** The dataset contains 2,240 customer records with 29 attributes, including demographic information, product purchasing patterns, campaign engagement metrics and channel preferences.
+  
 ## How to Run
 
 1. Import the `.ipynb` notebook into your Databricks workspace

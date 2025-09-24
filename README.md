@@ -32,7 +32,7 @@ Customer Segmentation Analysis: Identifying Distinct Customer Profiles Using K-M
 │   └── Identifying Distinct Customer Profiles Using K-Means Clustering.html
 │
 ├── reports/
-│   └── Customer_Segmentation_Analysis.pdf    
+│   └── Customer Segmentation Analysis_Identifying Distinct Customer Profiles Using K-Means Clustering.pdf    
 │
 └── README.md
 ```

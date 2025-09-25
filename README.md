@@ -38,6 +38,21 @@ Customer Segmentation Analysis: Identifying Distinct Customer Profiles Using K-M
 └── README.md
 ```
 
+## Technologies Used
+- **Platform**: Databricks
+- **Languages**: Python
+- **Libraries**: 
+  - pandas, numpy
+  - scikit-learn (KMeans, PCA, StandardScaler, silhouette_score)
+  - matplotlib, seaborn
+  - scipy.stats (gaussian_kde)
+
+## Dataset
+
+- **Source:** Customer Personality Analysis Dataset on Kaggle  
+- **Link:** https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/data 
+- **Description:** The dataset contains 2,240 customer records with 29 attributes, including demographic information, product purchasing patterns, campaign engagement metrics and channel preferences.
+
 ## Methodology
 
 ### 1. Data Preprocessing
@@ -71,25 +86,10 @@ Created new features to better capture customer behavior:
 3. **Loyal Wine Enthusiasts**: Wine-focused, long-tenured, multichannel shoppers
 4. **Young Budget Browsers**: Young, low-income, high browsing, low conversion
 
-## Technologies Used
-- **Platform**: Databricks
-- **Languages**: Python
-- **Libraries**: 
-  - pandas, numpy
-  - scikit-learn (KMeans, PCA, StandardScaler, silhouette_score)
-  - matplotlib, seaborn
-  - scipy.stats (gaussian_kde)
-
 ## Results
 - 4 distinct customer segments with actionable marketing insights
 - Moderate silhouette score (0.21) reflecting real-world behavioral overlap
 - Clear business strategies for each segment (promotions, loyalty programs, etc.)
-
-## Dataset
-
-- **Source:** Customer Personality Analysis Dataset on Kaggle  
-- **Link:** https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/data 
-- **Description:** The dataset contains 2,240 customer records with 29 attributes, including demographic information, product purchasing patterns, campaign engagement metrics and channel preferences.
   
 ## How to Run
 

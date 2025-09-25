@@ -28,6 +28,7 @@ Customer Segmentation Analysis: Identifying Distinct Customer Profiles Using K-M
 │   └── marketing_campaign.csv 
 │
 ├── notebooks/
+│   ├──.gitattributes 
 │   ├── Identifying Distinct Customer Profiles Using K-Means Clustering.ipynb  
 │   └── Identifying Distinct Customer Profiles Using K-Means Clustering.html
 │

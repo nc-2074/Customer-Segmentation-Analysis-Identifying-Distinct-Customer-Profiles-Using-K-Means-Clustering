@@ -19,7 +19,7 @@ This project performs customer segmentation using K-Means clustering to identify
 ## Business Objective
 Identify meaningful customer segments to provide actionable insights that can be used to inform targeted marketing strategies, personalized campaigns, and improved customer retention.
 
-## Project Structure 
+## Repository Structure 
 
 ```text
 Customer Segmentation Analysis: Identifying Distinct Customer Profiles Using K-Means Clustering/
